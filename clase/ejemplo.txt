@@ -1,0 +1,6 @@
+{
+    "nombre": "Alberto",
+    "edad": 36,
+    "casado": false,
+    "hobbies": ["ciencia ficcion","informatica","Cerveza"]
+}
