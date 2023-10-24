@@ -1,0 +1,13 @@
+
+Haciendo ping a 192.168.0.1 con 32 bytes de datos:
+Respuesta desde 192.168.0.1: bytes=32 tiempo=301ms TTL=59
+Respuesta desde 192.168.0.1: bytes=32 tiempo=61ms TTL=59
+Respuesta desde 192.168.0.1: bytes=32 tiempo=50ms TTL=59
+Respuesta desde 192.168.0.1: bytes=32 tiempo=291ms TTL=59
+
+Estad¡sticas de ping para 192.168.0.1:
+    Paquetes: enviados = 4, recibidos = 4, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 50ms, M ximo = 301ms, Media = 175ms
+
