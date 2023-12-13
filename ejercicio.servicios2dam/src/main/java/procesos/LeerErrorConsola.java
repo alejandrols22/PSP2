@@ -7,6 +7,8 @@ public class LeerErrorConsola {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
+		
+		//L4 ∩ E2 ≠ Ø
 
 				// Abrir la consola de comandos de Windows (CMD)
 				ProcessBuilder pbCMD = new ProcessBuilder("CMD","/C","ipcon");
